@@ -1,0 +1,6 @@
+/
+/urgent-care
+/ny/s/new-york-urgent-care
+/ny/c/new-york-ny-urgent-care
+/ny/c/new-york-ny-srv-lab-tests
+/ny/c/new-york-ny-srv-not-a-service
